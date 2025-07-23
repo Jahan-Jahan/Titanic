@@ -42,9 +42,9 @@ visualize insights, and apply predictive modeling techniques.
 
 - Logistic Regression
 - Support Vector Machine (SVM)
-- Decision Tree
-- Random Forest
-- (You can extend with Gradient Boosting, KNN, etc.)
+- Decision Tree & Random Forest
+- Boosting Algorithms (XGB, LGBM, CatBoost)
+- Stacking Model
 
 ---
 
